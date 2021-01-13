@@ -1,0 +1,23 @@
+    <section id="contacts" class="content-section">
+        <div class="download-section">
+            <div class="container">
+                <div class="col-lg-8 col-lg-offset-2">
+                  <h2>Contatti</h2>
+                  <p>
+                  Stefano e Ivano hanno fondato nel
+                  2009 il duo artistico boring&sad, focalizzato sull'incontro fra scienza, tecnologia e arte.
+                  </p>
+                  <p>
+                    Indirizzi email:
+                    </p>
+                  <p>
+                    stefanoboring@gmail.com
+                </p>
+                <p>
+                  ivano.talamo@gmail.com
+                </p>
+
+                </div>
+            </div>
+        </div>
+    </section>

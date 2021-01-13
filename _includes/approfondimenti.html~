@@ -1,0 +1,31 @@
+
+    <section id="approfondimenti" class="content-section">
+        <div class="download-section">
+            <div class="container">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <h2>Approfondimenti - articoli</h2>
+                    <ul class="deepening">
+                      <li>
+                        <a target='_blank' href='https://www.eticaeconomia.it/meritocrazia-merito-e-disuguaglianze/'>Eticaeconomia - 02/02/2020: Meritocrazia, merito e disuguaglianze</a></li>
+                      <li><a target='_blank' href='https://www.eticaeconomia.it/il-lockdown-e-la-disuguaglianza-in-italia/'>Eticaeconomia - 30/04/2020: Il lockdown e la disuguaglianza in Italia</a></li>
+                      <li>
+                        <a target='_blank' href='https://www.ilfattoquotidiano.it/2020/04/24/disuguaglianze-sale-il-divario-tra-ricchi-e-poveri-in-italia-e-il-coronavirus-peggiorera-le-cose/5779724/'>Il Fatto Quotidiano - 24/12/2020: Disuguaglianze, sale il divario tra ricchi e poveri in Italia. E il coronavirus peggiorerà le cose</a>
+                      </li>
+                      <li>
+                        <a target='_blank' href='http://www.ildatomancante.it/opendata/popolazione/799/la-grande-fuga-salute-ricchezza-e-origini-della-disuguaglianza-in-italia/'>La Grande Fuga – Salute, ricchezza e origini della disuguaglianza in Italia</a>
+                      <li>
+                        <a target='_blank' href='https://www.ilsole24ore.com/art/coronavirus-censis-tenore-vita-peggiora-76-milioni-italiani-600mila-poveri-piu-ADmVY23?refresh_ce=1'>Il Sole 24 Ore - 23/11/2020: Coronavirus, Censis: tenore di vita peggiora per 7,6 milioni di italiani, 600mila poveri in più</a>
+                        </li>
+                      <li>
+                        <a target='_blank' href='https://www.forumdisuguaglianzediversita.org/wp-content/uploads/2020/12/Grafico-del-giorno_7-Dicembre.x39314.pdf'>Forum Disuguaglianza e diversita' - 07/12/2020: L’evoluzione delle disuguaglianze di reddito e di ricchezza in Italia</a>
+                      </li>
+                    </ul>
+                    <h2>Approfondimenti - saggi </h2>
+                    <ul>
+                      <li><a target='_blank' href="https://www.laterza.it/index.php?option=com_laterza&Itemid=97&task=schedalibro&isbn=9788858134153">Le radici psicologiche della disuguaglianza - Chiara Volpato</a></li>
+                      <li><a target='_blank' href="https://www.bompiani.it/catalogo/il-capitale-nel-xxi-secolo-9788845297458">Il capitale nel XXI Secolo - Thomas Piketty</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
