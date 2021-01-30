@@ -11,3 +11,4 @@ View this jekyll theme in action [here](https://jeromelachaud.github.io/grayscal
 
 =========
 For more details, read the [documentation](http://jekyllrb.com/)
+docker run  --volume="$PWD:/srv/jekyll"   -it jekyll/jekyll:latest jekyll serve
