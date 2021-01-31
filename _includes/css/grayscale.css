@@ -51,14 +51,14 @@ ul {
 }
 
 a {
-    color: #ab2222;
-    /*  color: {{ site.color.links }};*/
-    
-/*    color: {{ site.color.background }};
-    background-color: white;*/
+    color: white;
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
+}
+
+.colorlink{
+    color: #11505d;
 }
 
 a:hover,
