@@ -51,7 +51,9 @@ ul {
 }
 
 a {
-    color: {{ site.color.links }};
+    color: #ab2222;
+    /*  color: {{ site.color.links }};*/
+    
 /*    color: {{ site.color.background }};
     background-color: white;*/
     -webkit-transition: all .2s ease-in-out;
