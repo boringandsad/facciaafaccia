@@ -35,10 +35,7 @@ $("a").mouseup(function(){
     $(this).blur();
 })
 
-idx=1+Math.floor(Math.random() * 3);
-document.getElementById("intro").style.backgroundImage = "url('img/background"+idx+".png')";
-document.getElementById("faiqualcosaspace").src = "img/background"+(1+(idx+1)%3)+".png";
-document.getElementById("faiqualcosaspace").style.width="50%";
-idx=1+Math.floor(Math.random() * 3);
-document.getElementById("approfondimentispace").src = "img/background"+(1+(idx+2)%3)+".png";
-document.getElementById("approfondimentispace").style.width="50%";
+idx=1+Math.floor(Math.random() * 5);
+document.getElementById("intro").style.backgroundImage = "url(/img/background/"+idx+".png)";
+document.getElementById("faiqualcosaspace").src = "img/background/small/"+(1+(idx+1)%5)+".png";
+document.getElementById("approfondimentispace").src = "img/background/small/"+(1+(idx+2)%5)+".png";
