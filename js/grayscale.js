@@ -39,3 +39,13 @@ idx=1+Math.floor(Math.random() * 5);
 document.getElementById("intro").style.backgroundImage = "url(img/background/"+idx+".png)";
 document.getElementById("faiqualcosaspace").src = "img/background/small/"+(1+(idx+1)%5)+".png";
 document.getElementById("approfondimentispace").src = "img/background/small/"+(1+(idx+2)%5)+".png";
+
+window.addEventListener( "pageshow", function ( event ) {
+  var historyTraversal = event.persisted || 
+                         ( typeof window.performance != "undefined" && 
+                              window.performance.navigation.type === 2 );
+  if ( historyTraversal ) {
+    // Handle page restore.
+    window.location.reload();
+  }
+});
